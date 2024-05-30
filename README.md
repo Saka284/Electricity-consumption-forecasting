@@ -22,4 +22,4 @@ This dataset can be used to analyze the historical trends in electricity consump
 
 The XGBoost regressor model used in this analysis achieved a percentage error of 6.1507% in forecasting electricity consumption.
 
-![Forecast](forecast.png)
+![Forecast](image_2024-05-30_110425593.png)
