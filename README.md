@@ -17,3 +17,9 @@ The dataset contains the following columns:
 - **Biomass**: Biomass energy production.
 
 This dataset can be used to analyze the historical trends in electricity consumption and production and to forecast future electricity consumption based on various factors.
+
+## Results
+
+The XGBoost regressor model used in this analysis achieved a percentage error of 6.1507% in forecasting electricity consumption.
+
+![Forecast](forecast.png)
